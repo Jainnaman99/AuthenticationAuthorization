@@ -12,6 +12,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
+using System.Data;
 
 namespace JwtApp.Controllers
 {
@@ -66,11 +67,20 @@ namespace JwtApp.Controllers
 
         private UserModel Authenticate(UserLogin userLogin)
         {
-            var currentUser = UserConstants.Users.FirstOrDefault(o => o.Username.ToLower() == userLogin.Username.ToLower() && o.Password == userLogin.Password);
+            SqlConnection con = new SqlConnection(_config.GetConnectionString("DbConn").ToString());
+            con.Open();
+            String query="Select * from users where Username='"+userLogin.Username+"' AND Password='"+userLogin.Password+"'";
+            SqlDataAdapter da = new SqlDataAdapter(query,con);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            
+            //var currentUser = UserConstants.Users.FirstOrDefault(o => o.Username.ToLower() == userLogin.Username.ToLower() && o.Password == userLogin.Password);
 
-            if (currentUser != null)
+            if (dt.Rows.Count >0)
             {
-                return currentUser;
+                DataRow row = dt.Rows[0];
+                userLogin.Username = row["Username"].ToString();
+                userLogin.Password = row["Password"].ToString();
             }
 
             return null;

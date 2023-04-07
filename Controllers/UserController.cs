@@ -27,17 +27,17 @@ namespace JwtApp.Controllers
         }
 
 
-        [HttpGet("Sellers")]
-        [Authorize(Roles = "Seller")]
-        public IActionResult SellersEndpoint()
+        [HttpGet("Clients")]
+        [Authorize(Roles = "Clients")]
+        public IActionResult ClientsEndpoint()
         {
             var currentUser = GetCurrentUser();
 
             return Ok($"Hi {currentUser.GivenName}, you are a {currentUser.Role}");
         }
 
-        [HttpGet("AdminsAndSellers")]
-        [Authorize(Roles = "Administrator,Seller")]
+        [HttpGet("AdminsAndClients")]
+        [Authorize(Roles = "Administrator,Client")]
         public IActionResult AdminsAndSellersEndpoint()
         {
             var currentUser = GetCurrentUser();
