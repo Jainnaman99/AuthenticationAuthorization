@@ -69,21 +69,34 @@ namespace JwtApp.Controllers
         {
             SqlConnection con = new SqlConnection(_config.GetConnectionString("DbConn").ToString());
             con.Open();
-            String query="Select * from users where Username='"+userLogin.Username+"' AND Password='"+userLogin.Password+"'";
+            String query="(Select * from users where Username='"+userLogin.Username+"' AND Password='"+userLogin.Password+"')";
             SqlDataAdapter da = new SqlDataAdapter(query,con);
             DataTable dt = new DataTable();
             da.Fill(dt);
+
+            //Console.WriteLine(dt);
             
             //var currentUser = UserConstants.Users.FirstOrDefault(o => o.Username.ToLower() == userLogin.Username.ToLower() && o.Password == userLogin.Password);
 
-            if (dt.Rows.Count >0)
+            if (dt.Rows.Count != 0)
             {
                 DataRow row = dt.Rows[0];
-                userLogin.Username = row["Username"].ToString();
-                userLogin.Password = row["Password"].ToString();
+                UserModel userModel = new UserModel();
+                userModel.Username = row["Username"].ToString();
+                userModel.Password = row["Password"].ToString();
+                userModel.EmailAddress = row["EmailAddress"].ToString();
+                userModel.Role = row["Role"].ToString();
+                userModel.Surname = row["Surname"].ToString();
+                userModel.GivenName = row["GivenName"].ToString();
+                return userModel;
+                
             }
+            else{
+                return null;
+            }
+            
 
-            return null;
+            
         }
     }
 }

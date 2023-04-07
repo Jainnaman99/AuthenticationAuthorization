@@ -28,7 +28,7 @@ namespace JwtApp.Controllers
 
 
         [HttpGet("Clients")]
-        [Authorize(Roles = "Clients")]
+        [Authorize(Roles = "Client")]
         public IActionResult ClientsEndpoint()
         {
             var currentUser = GetCurrentUser();
