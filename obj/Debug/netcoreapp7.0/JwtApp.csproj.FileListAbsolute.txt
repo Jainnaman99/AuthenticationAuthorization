@@ -1,0 +1,135 @@
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\appsettings.Development.json
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\appsettings.json
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\JwtApp.staticwebassets.runtime.json
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\JwtApp.exe
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\JwtApp.deps.json
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\JwtApp.runtimeconfig.json
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\JwtApp.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\JwtApp.pdb
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Azure.Core.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Azure.Identity.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Humanizer.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.Data.SqlClient.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Logging.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Tokens.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\Microsoft.Win32.SystemEvents.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.Configuration.ConfigurationManager.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.Drawing.Common.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.Runtime.Caching.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.Security.Permissions.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\System.Windows.Extensions.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.csproj.AssemblyReference.cache
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfoInputs.cache
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfo.cs
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.csproj.CoreCompileInputs.cache
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cache
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cs
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.JwtApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.JwtApp.props
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.JwtApp.props
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.JwtApp.props
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\scopedcss\bundle\JwtApp.styles.css
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.csproj.CopyComplete
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\refint\JwtApp.dll
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.pdb
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\JwtApp.genruntimeconfig.cache
+D:\dot net project examples\jwt-dotnetcore-web-main\obj\Debug\netcoreapp7.0\ref\JwtApp.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\appsettings.Development.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\appsettings.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.staticwebassets.runtime.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.exe
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.deps.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.runtimeconfig.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.pdb
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Azure.Core.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Azure.Identity.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Humanizer.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Drawing.Common.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Runtime.Caching.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Security.Permissions.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Windows.Extensions.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.csproj.AssemblyReference.cache
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfoInputs.cache
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfo.cs
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.csproj.CoreCompileInputs.cache
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cache
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cs
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.JwtApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.JwtApp.props
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.JwtApp.props
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.JwtApp.props
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\scopedcss\bundle\JwtApp.styles.css
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.csproj.CopyComplete
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\refint\JwtApp.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.pdb
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.genruntimeconfig.cache
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\ref\JwtApp.dll
+C:\Users\ishaan_marjit\Desktop\APIGEE\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\BCrypt.Net-Next.dll
