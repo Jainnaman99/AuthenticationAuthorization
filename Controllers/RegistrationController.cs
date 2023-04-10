@@ -31,8 +31,10 @@ namespace JwtApp.Controllers
         [HttpPost]
         public string registration([FromBody] Registration registration)
         {
+            //String constring ="Data Source=PSL-2RXL6Q3\\SQLEXPRESS;Initial Catalog=newDB;TrustServerCertificate=true;Integrated Security=SSPI";
             SqlConnection con= new SqlConnection(_config.GetConnectionString("DbConn").ToString());
             con.Open();
+            
             String query="INSERT INTO Users (Username,Password,EmailAddress,GivenName,Surname,Role) VALUES ('"+registration.Username+"','"+registration.Password+"','"+registration.EmailAddress+"','"+registration.GivenName+"','"+registration.Surname+"','"+registration.Role+"')";
             //String query="INSERT INTO USERS (Username,Password,EmailAddress,GivenName,Surname,Role) VALUES ('Jerry','MyPass_w0rd','jerry.admin@email.com','Jerry','Leo','Admin')";
             SqlCommand cmd= new SqlCommand(query,con);
@@ -51,8 +53,7 @@ namespace JwtApp.Controllers
             }
             
         }
+
+            
+        }
     }
-
-
-
-}
