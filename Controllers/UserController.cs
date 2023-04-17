@@ -12,40 +12,62 @@ using System.Data.SqlClient;
 
 namespace JwtApp.Controllers
 {
-    [Route("api/[controller]")]
+    //[Route("api/[controller]")]
     [ApiController]
-    public class UserController : ControllerBase
+    public class PlayersController : ControllerBase
     {
 
-        [HttpGet("Admins")]
-        [Authorize(Policy = "UsernamePolicy",Roles = "Administrator")]
-        public IActionResult AdminsEndpoint()
+        [HttpGet("[controller]")]
+        [Authorize(Roles="1,2,3,4")]
+        public IActionResult EndPoint1()
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.GivenName}, you are an {currentUser.Role}");
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs {currentUser.api}");
         }
 
 
-        [HttpGet("Clients")]
-        [Authorize(Roles = "Client")]
-        public IActionResult ClientsEndpoint()
+        [HttpPost("[controller]")]
+        [Authorize(Policy = "KIOSK")]
+        [Authorize(Roles="2,3")]
+        //[Authorize(clientid = 1)]
+        public IActionResult EndPoint2()
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.GivenName}, you are a {currentUser.Role}");
+            return Ok($"Hi {currentUser.clientid}, you are a {currentUser.rolename}");
         }
 
-        [HttpGet("AdminsAndClients")]
-        [Authorize(Roles = "Administrator,Client")]
-        public IActionResult AdminsAndSellersEndpoint()
+        [HttpPatch("[controller]")]
+        [Authorize(Policy = "KIOSK")]
+        [Authorize(Roles="2,3")]
+        //[Authorize(clientid = 1)]
+        public IActionResult EndPoint5()
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.GivenName}, you are an {currentUser.Role}");
+            return Ok($"Hi {currentUser.clientid}, you are a {currentUser.rolename}");
         }
 
-        [HttpGet("Public")]
+        [HttpGet("[controller]/{player-id}/offers")]
+        [Authorize(Roles = "1,2,3,4")]
+        public IActionResult EndPoint3()
+        {
+            var currentUser = GetCurrentUser();
+
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename}");
+        }
+
+        [HttpPost("[controller]/{player-id}/offers")]
+        [Authorize(Roles = "1,2,3,4")]
+        public IActionResult EndPoint4()
+        {
+            var currentUser = GetCurrentUser();
+
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename}");
+        }
+
+        [HttpGet("viewers")]
         public IActionResult Public()
         {
             return Ok("Hi, you're on public property");
@@ -61,11 +83,12 @@ namespace JwtApp.Controllers
 
                 return new UserModel
                 {
-                    Username = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.NameIdentifier)?.Value,
-                    EmailAddress = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Email)?.Value,
-                    GivenName = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.GivenName)?.Value,
-                    Surname = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Surname)?.Value,
-                    Role = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Role)?.Value
+                    clientid = userClaims.FirstOrDefault(o => o.Type == ClaimTypes.Role)?.Value,
+                    rolename = userClaims.FirstOrDefault(o => o.Type == CustomClaimTypes.rolename)?.Value,
+                    privilege = userClaims.FirstOrDefault(o => o.Type == CustomClaimTypes.privilege)?.Value,
+                    packagename = userClaims.FirstOrDefault(o => o.Type == CustomClaimTypes.packagename)?.Value,
+                    api = userClaims.FirstOrDefault(o => o.Type == CustomClaimTypes.api)?.Value,
+                    verb = userClaims.FirstOrDefault(o => o.Type == CustomClaimTypes.verb)?.Value
                 };
             }
             return null;

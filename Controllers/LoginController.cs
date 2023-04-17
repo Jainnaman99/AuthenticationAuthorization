@@ -50,11 +50,12 @@ namespace JwtApp.Controllers
 
             var claims = new[]
             {
-                new Claim(ClaimTypes.NameIdentifier, user.Username),
-                new Claim(ClaimTypes.Email, user.EmailAddress),
-                new Claim(ClaimTypes.GivenName, user.GivenName),
-                new Claim(ClaimTypes.Surname, user.Surname),
-                new Claim(ClaimTypes.Role, user.Role)
+                new Claim(ClaimTypes.Role, user.clientid),
+                new Claim(CustomClaimTypes.rolename, user.rolename),
+                new Claim(CustomClaimTypes.privilege, user.privilege),
+                new Claim(CustomClaimTypes.packagename, user.packagename),
+                new Claim(CustomClaimTypes.api, user.api),
+                new Claim(CustomClaimTypes.verb, user.verb)
             };
 
             var token = new JwtSecurityToken(_config["Jwt:Issuer"],
@@ -71,7 +72,8 @@ namespace JwtApp.Controllers
 {
     SqlConnection con = new SqlConnection(_config.GetConnectionString("DbConn").ToString());
     con.Open();
-    String query = "(Select * from users where Username='" + userLogin.Username + "')";
+    //String query = "(Select * from users where Username='" + userLogin.Username + "')";
+    String query = "select a.clientid, b.rolename, b.privilege, c.packagename, c.api, c.verb from client_package_role a join role_privilege b on a.roleid = b.roleid join tpackage c on a.packagename = c.packagename where a.clientid='"+userLogin.clientid+"' order by a.clientid ;";
     SqlDataAdapter da = new SqlDataAdapter(query, con);
     DataTable dt = new DataTable();
     da.Fill(dt);
@@ -79,17 +81,18 @@ namespace JwtApp.Controllers
     if (dt.Rows.Count != 0)
     {
         DataRow row = dt.Rows[0];
-        string hashedPassword = row["Password"].ToString();
-        bool passwordVerified = BCrypt.Net.BCrypt.Verify(userLogin.Password, hashedPassword);
+        //string hashedPassword = row["Password"].ToString();
+        //bool passwordVerified = BCrypt.Net.BCrypt.Verify(userLogin.Password, hashedPassword);
 
-        if (passwordVerified)
+        //if (passwordVerified)
         {
             UserModel userModel = new UserModel();
-            userModel.Username = row["Username"].ToString();
-            userModel.EmailAddress = row["EmailAddress"].ToString();
-            userModel.Role = row["Role"].ToString();
-            userModel.Surname = row["Surname"].ToString();
-            userModel.GivenName = row["GivenName"].ToString();
+            userModel.clientid = row["clientid"].ToString();
+            userModel.rolename = row["rolename"].ToString();
+            userModel.privilege = row["privilege"].ToString();
+            userModel.packagename = row["packagename"].ToString();
+            userModel.api = row["api"].ToString();
+            userModel.verb = row["verb"].ToString();
             return userModel;
         }
     }

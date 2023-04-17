@@ -7,11 +7,11 @@ namespace JwtApp.Models
 {
     public class UserModel
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
-        public string EmailAddress { get; set; }
-        public string Role { get; set; }
-        public string Surname { get; set; }
-        public string GivenName { get; set; }
+        public string clientid { get; set; }
+        public string rolename { get; set; }
+        public string privilege { get; set; }
+        public string packagename { get; set; }
+        public string api { get; set; }
+        public string verb { get; set; }
     }
 }
