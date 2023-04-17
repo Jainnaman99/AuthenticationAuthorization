@@ -80,6 +80,16 @@ namespace JwtApp.Controllers
 
     if (dt.Rows.Count != 0)
     {
+        String apis = "";
+
+        foreach (DataRow ro in dt.Rows)
+        {
+            //Console.WriteLine(ro["verb"].ToString()+ro["api"].ToString());
+            
+            apis += "["+ro["verb"].ToString()+"]:"+ro["api"].ToString()+"\n";
+        }
+
+        //Console.WriteLine(apis);
         DataRow row = dt.Rows[0];
         //string hashedPassword = row["Password"].ToString();
         //bool passwordVerified = BCrypt.Net.BCrypt.Verify(userLogin.Password, hashedPassword);
@@ -91,7 +101,7 @@ namespace JwtApp.Controllers
             userModel.rolename = row["rolename"].ToString();
             userModel.privilege = row["privilege"].ToString();
             userModel.packagename = row["packagename"].ToString();
-            userModel.api = row["api"].ToString();
+            userModel.api = apis;
             userModel.verb = row["verb"].ToString();
             return userModel;
         }

@@ -23,7 +23,7 @@ namespace JwtApp.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs {currentUser.api}");
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs \n{currentUser.api}");
         }
 
 
@@ -35,7 +35,7 @@ namespace JwtApp.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.clientid}, you are a {currentUser.rolename}");
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs \n{currentUser.api}");
         }
 
         [HttpPatch("[controller]")]
@@ -46,7 +46,7 @@ namespace JwtApp.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.clientid}, you are a {currentUser.rolename}");
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs \n{currentUser.api}");
         }
 
         [HttpGet("[controller]/{player-id}/offers")]
@@ -55,7 +55,7 @@ namespace JwtApp.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename}");
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs \n{currentUser.api}");
         }
 
         [HttpPost("[controller]/{player-id}/offers")]
@@ -64,14 +64,9 @@ namespace JwtApp.Controllers
         {
             var currentUser = GetCurrentUser();
 
-            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename}");
+            return Ok($"Hi {currentUser.clientid}, you are an {currentUser.rolename} and you can access APIs \n{currentUser.api}");
         }
 
-        [HttpGet("viewers")]
-        public IActionResult Public()
-        {
-            return Ok("Hi, you're on public property");
-        }
 
         private UserModel GetCurrentUser()
         {
