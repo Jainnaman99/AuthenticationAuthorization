@@ -269,3 +269,139 @@ D:\changes\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\
 D:\changes\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.pdb
 D:\changes\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.genruntimeconfig.cache
 D:\changes\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\ref\JwtApp.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\appsettings.Development.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\appsettings.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\JwtApp.staticwebassets.runtime.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\JwtApp.exe
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\JwtApp.deps.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\JwtApp.runtimeconfig.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\JwtApp.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\JwtApp.pdb
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Azure.Core.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Azure.Identity.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\BCrypt.Net-Next.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Humanizer.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.Drawing.Common.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.Runtime.Caching.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.Security.Permissions.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\System.Windows.Extensions.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.csproj.AssemblyReference.cache
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfoInputs.cache
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfo.cs
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.csproj.CoreCompileInputs.cache
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cache
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cs
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.JwtApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.JwtApp.props
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.JwtApp.props
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.JwtApp.props
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\scopedcss\bundle\JwtApp.styles.css
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.csproj.CopyComplete
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\refint\JwtApp.dll
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.pdb
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\JwtApp.genruntimeconfig.cache
+C:\Users\tamal_samanta\Desktop\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version - Ishaan\obj\Debug\netcoreapp7.0\ref\JwtApp.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\appsettings.Development.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\appsettings.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.staticwebassets.runtime.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.exe
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.deps.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.runtimeconfig.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\JwtApp.pdb
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Azure.Core.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Azure.Identity.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\BCrypt.Net-Next.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Humanizer.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Data.SqlClient.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Logging.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.IdentityModel.Tokens.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\Microsoft.Win32.SystemEvents.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Configuration.ConfigurationManager.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Drawing.Common.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Runtime.Caching.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Security.Cryptography.ProtectedData.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Security.Permissions.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\System.Windows.Extensions.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\bin\Debug\netcoreapp7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.csproj.AssemblyReference.cache
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfoInputs.cache
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.AssemblyInfo.cs
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.csproj.CoreCompileInputs.cache
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.MvcApplicationPartsAssemblyInfo.cache
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cache
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.RazorAssemblyInfo.cs
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.JwtApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.JwtApp.props
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.JwtApp.props
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.JwtApp.props
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\scopedcss\bundle\JwtApp.styles.css
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.csproj.CopyComplete
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\refint\JwtApp.dll
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.pdb
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\JwtApp.genruntimeconfig.cache
+D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\obj\Debug\netcoreapp7.0\ref\JwtApp.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\changes\\AuthenticationAuthorization-version - Ishaan\\JwtApp.csproj": {}
+    "D:\\changes\\AuthenticationAuthorization-version (1)\\AuthenticationAuthorization-version\\JwtApp.csproj": {}
   },
   "projects": {
-    "D:\\changes\\AuthenticationAuthorization-version - Ishaan\\JwtApp.csproj": {
+    "D:\\changes\\AuthenticationAuthorization-version (1)\\AuthenticationAuthorization-version\\JwtApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\changes\\AuthenticationAuthorization-version - Ishaan\\JwtApp.csproj",
+        "projectUniqueName": "D:\\changes\\AuthenticationAuthorization-version (1)\\AuthenticationAuthorization-version\\JwtApp.csproj",
         "projectName": "JwtApp",
-        "projectPath": "D:\\changes\\AuthenticationAuthorization-version - Ishaan\\JwtApp.csproj",
+        "projectPath": "D:\\changes\\AuthenticationAuthorization-version (1)\\AuthenticationAuthorization-version\\JwtApp.csproj",
         "packagesPath": "C:\\Users\\naman_jain4\\.nuget\\packages\\",
-        "outputPath": "D:\\changes\\AuthenticationAuthorization-version - Ishaan\\obj\\",
+        "outputPath": "D:\\changes\\AuthenticationAuthorization-version (1)\\AuthenticationAuthorization-version\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naman_jain4\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,3 +1,4 @@
+using JwtApp.Controllers;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -43,11 +44,16 @@ namespace JwtApp
 
             services.AddAuthorization(options =>
                 {
-                    options.AddPolicy("UsernamePolicy", policy =>
+                    options.AddPolicy("POS", policy =>
                     {
-                        policy.RequireClaim(ClaimTypes.NameIdentifier,"ishaan_marjit");
+                        policy.RequireClaim(CustomClaimTypes.packagename,"POS");
+                    });
+                    options.AddPolicy("KIOSK", policy =>
+                    {
+                        policy.RequireClaim(CustomClaimTypes.packagename,"KIOSK");
                     });
                 });
+                
             services.AddMvc();
             services.AddControllers();
             services.AddRazorPages();

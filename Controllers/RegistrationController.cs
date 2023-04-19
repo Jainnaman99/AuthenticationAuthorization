@@ -29,43 +29,40 @@ namespace JwtApp.Controllers
         }
 
         [AllowAnonymous]
-[HttpPost]
-public string registration([FromBody] Registration registration)
-{
-    // Hash the password
-    string hashedPassword = BCrypt.Net.BCrypt.HashPassword(registration.Password);
-
-    // Open a connection to the database
-    using (SqlConnection con = new SqlConnection(_config.GetConnectionString("DbConn").ToString()))
-    {
-        con.Open();
-
-        // Prepare the SQL query
-        string query = "INSERT INTO Users (Username, Password, EmailAddress, GivenName, Surname, Role) VALUES (@Username, @Password, @EmailAddress, @GivenName, @Surname, @Role)";
-        using (SqlCommand cmd = new SqlCommand(query, con))
+        [HttpPost]
+        public string registration([FromBody] Registration registration)
         {
-            // Set the query parameters
-            cmd.Parameters.AddWithValue("@Username", registration.Username);
-            cmd.Parameters.AddWithValue("@Password", hashedPassword);
-            cmd.Parameters.AddWithValue("@EmailAddress", registration.EmailAddress);
-            cmd.Parameters.AddWithValue("@GivenName", registration.GivenName);
-            cmd.Parameters.AddWithValue("@Surname", registration.Surname);
-            cmd.Parameters.AddWithValue("@Role", registration.Role);
+            // Hash the password
+            string hashedPassword = BCrypt.Net.BCrypt.HashPassword(registration.password);
 
-            // Execute the query
-            int rowsAffected = cmd.ExecuteNonQuery();
+            // Open a connection to the database
+            using (SqlConnection con = new SqlConnection(_config.GetConnectionString("DbConn").ToString()))
+            {
+                con.Open();
 
-            if (rowsAffected > 0)
-            {
-                return "Data Inserted";
-            }
-            else
-            {
-                return "Error";
+                // Prepare the SQL query
+                string query = "INSERT INTO creds VALUES (@Username, @Password, @ClientID)";
+                using (SqlCommand cmd = new SqlCommand(query, con))
+                {
+                    // Set the query parameters
+                    cmd.Parameters.AddWithValue("@Username", registration.username);
+                    cmd.Parameters.AddWithValue("@Password", hashedPassword);
+                    cmd.Parameters.AddWithValue("@ClientID", registration.clientid);
+
+                    // Execute the query
+                    int rowsAffected = cmd.ExecuteNonQuery();
+
+                    if (rowsAffected > 0)
+                    {
+                        return "Data Inserted";
+                    }
+                    else
+                    {
+                        return "Error";
+                    }
+                }
             }
         }
-    }
-}
 
             
         }

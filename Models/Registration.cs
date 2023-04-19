@@ -8,12 +8,9 @@ namespace JwtApp.Models
     public class Registration
     {
         //public int id { get; set; }
-        public string Username { get; set; }
-        public string Password { get; set; }
-        public string EmailAddress { get; set; }
-        public string GivenName { get; set; }
-        public string Surname { get; set; }
-        public string Role { get; set; }
+        public string username { get; set; }
+        public string clientid { get; set; }
+        public string password { get; set; }
         
     }
 }

@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JwtApp
 build_property.RootNamespace = JwtApp
-build_property.ProjectDir = D:\changes\AuthenticationAuthorization-version - Ishaan\
+build_property.ProjectDir = D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\changes\AuthenticationAuthorization-version - Ishaan
+build_property.MSBuildProjectDirectory = D:\changes\AuthenticationAuthorization-version (1)\AuthenticationAuthorization-version
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/Error.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/Index.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/Privacy.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/Shared/_Layout.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/_ViewImports.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/changes/AuthenticationAuthorization-version - Ishaan/Pages/_ViewStart.cshtml]
+[D:/changes/AuthenticationAuthorization-version (1)/AuthenticationAuthorization-version/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
